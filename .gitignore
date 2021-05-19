@@ -1,0 +1,16 @@
+# Binaries
+scratch/output
+scratch/program
+
+worked/banner
+worked/bio
+worked/discord
+
+# TeX files
+*.aux
+*.log
+*.nav
+*.output
+*.snm
+*.toc
+*.vrb

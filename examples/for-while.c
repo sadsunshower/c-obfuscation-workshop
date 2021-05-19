@@ -1,0 +1,3 @@
+for (;condition();) {
+  action();
+}
