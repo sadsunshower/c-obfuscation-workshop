@@ -3,7 +3,7 @@
 #include <string.h>
 #include "demobits.c"
 
-int main(void)
+int main(int argc, char** argv)
 {
     
 
